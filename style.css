@@ -1,3 +1,14 @@
 body {
     background: red;
 }
+h1 {
+    color: blue;
+
+}
+h1:hover {
+    color: green;
+}
+p {
+    font-size: 20px;
+    color: rgb(0, 255, 0);
+}
